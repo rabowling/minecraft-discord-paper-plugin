@@ -19,7 +19,7 @@ import net.kyori.adventure.text.TextComponent;
 
 public class DiscordWebhookHandler {
     
-    private static final String WEBHOOK_URL = "https://discord.com/api/webhooks/927285307617992735/Dcb6umhx41cXsMQKDvH5Crdg3l9K3OM_h-3fgGDyPkhUYwUZRdAcX24nbQu-aYPrblsQ";
+    private static final String WEBHOOK_URL = "redacted";
 
     private static final HttpClient client = HttpClient.newBuilder().version(Version.HTTP_2).build();
 
